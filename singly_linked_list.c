@@ -4,7 +4,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 //#include <stdbool.h>
-#define N 10
 
 // defining bool because of error (commenting #include <stdbool.h>)
 typedef int bool; 
